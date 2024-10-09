@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://octorypo.github.io/sitemap.html.gz
+Sitemap: https://octorypo.github.io/app/sitemap.html.gz
+Sitemap: https://octorypo.github.io/assets/sitemap.html.gz
+Sitemap: https://octorypo.github.io/css/sitemap.html.gz
+Sitemap: https://octorypo.github.io/includes/sitemap.html.gz
+Sitemap: https://octorypo.github.io/item/sitemap.html.gz
+Sitemap: https://octorypo.github.io/src/sitemap.html.gz
